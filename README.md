@@ -14,3 +14,9 @@ docker compose up -d
 ```
 cat /etc/gitlab/initial_root_password
 ```
+
+
+```
+create group -> IT
+create project -> DevOps
+```
