@@ -18,5 +18,5 @@ cat /etc/gitlab/initial_root_password
 
 ```
 create group -> IT
-create project -> DevOps
+create project -> Python_Hello
 ```
