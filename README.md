@@ -17,6 +17,8 @@ cat /etc/gitlab/initial_root_password
 
 
 ```
+Admin Area
+Create user -> anakdevops
 create group -> IT
 create project -> Python_Hello
 ```
