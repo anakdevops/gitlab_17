@@ -23,3 +23,14 @@ create group -> IT
 create project -> Python_Hello
 Assign project Python_Hello ke anakdevops
 ```
+
+```
+generate sshkey 2048
+ssh-keygen -t rsa -b 2048 -C "gitlab-local"
+add sshkey to gitlab
+```
+
+```
+clone with ssh
+git clone ssh://git@localhost:223/anakdevops/python_hello.git
+```
