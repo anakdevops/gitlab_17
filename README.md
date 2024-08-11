@@ -21,4 +21,5 @@ Admin Area
 Create user -> anakdevops
 create group -> IT
 create project -> Python_Hello
+Assign project Python_Hello ke anakdevops
 ```
